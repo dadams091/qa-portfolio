@@ -4,13 +4,15 @@
 This self-directed project provides practical experience in foundational manual testing skills such as test planning, test case design, test case execution, and session-based exploratory testing. It serves as an introductory project to software testing for my QA portfolio.
 
 ## Project Documents
-[Test Plan](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.0)
+[Cover Page](project-files/01-cover-page.pdf)
 
-[Test Cases](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.erszwiwasvxc)
+[Test Plan](project-files/02-test-plan.pdf)
 
-[Exploratory Testing - Session Sheets](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.tkni8tu43uq2)
+[Test Cases](project-files/03-test-cases.pdf)
 
-[Bug Reports](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.w9em9pyrcdox)
+[Exploratory Testing - Session Sheets](project-files/04-exploratory-testing-session-sheets.pdf)
 
-[Test Completion Report](https://docs.google.com/document/d/1IqFnUQIyoAQXtAlXlVv6wqredK1IX-MzvBAwTAHFBGA/edit?tab=t.bzvquw4q6e2i)
+[Bug Reports](project-files/05-bug-reports.pdf)
+
+[Test Completion Report](project-files/06-test-completion-report.pdf)
 
