@@ -4,6 +4,7 @@
 This self-directed project provides practical experience in foundational manual testing skills such as test planning, test case design, test case execution, and session-based exploratory testing. It serves as an introductory project to software testing for my QA portfolio.
 
 ## Project Documents
+*Note: Download the PDFs to access links.*
 [Cover Page](project-files/01-cover-page.pdf)
 
 [Test Plan](project-files/02-test-plan.pdf)
